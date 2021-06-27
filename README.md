@@ -1,4 +1,5 @@
 # Windows-logon-sound
+This script can play a soundfile of your choice and can be executed by task scheduler.
 ## Installation
 1. this script depends on NirCmd, install it from here:  https://www.nirsoft.net/utils/nircmd.html
 2. download my .ps1 script
